@@ -1,9 +1,3 @@
-/**********************************************************************
-  Filename    : Drive LiquidCrystal I2C to display characters
-  Description : I2C is used to control the display characters of LCD1602.
-  Auther      : www.freenove.com
-  Modification: 2022/10/25
-**********************************************************************/
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 #include <string>
